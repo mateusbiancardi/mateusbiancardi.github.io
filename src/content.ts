@@ -78,7 +78,7 @@ export const CONTENT: Record<Lang, Content> = {
     about:
       'Faço software para educação. Na GAMA Ensino, construo a plataforma de simulados e redações do ENEM, com correção por IA, e mantenho o app das redes municipais de ensino. Antes, front-end na CT Junior, incluindo um sistema com a Petrobras.',
     stats: [
-      { value: 24, suffix: 'mil+', label: 'alunos ativos nos sistemas' },
+      { value: 24, suffix: 'mil+', label: 'usuários ativos nos sistemas' },
       { value: 78, suffix: '', label: 'escolas no app mobile' },
       { value: 16, suffix: '', label: 'instituições nos simulados' },
       { value: 3, suffix: '+', label: 'anos em produção' }
@@ -175,7 +175,7 @@ export const CONTENT: Record<Lang, Content> = {
     about:
       "Building education software. At GAMA Ensino, that means the mock exam and essay platform for ENEM, Brazil's national university entrance exam, with AI grading, plus the mobile app used by municipal school networks. Before that, front-end work at CT Junior, including a system built with Petrobras.",
     stats: [
-      { value: 24, suffix: 'k+', label: 'active students across our platforms' },
+      { value: 24, suffix: 'k+', label: 'active users across our platforms' },
       { value: 78, suffix: '', label: 'schools using the mobile app' },
       { value: 16, suffix: '', label: 'institutions using the mock exam platform' },
       { value: 3, suffix: '+', label: 'years shipping to production' }
